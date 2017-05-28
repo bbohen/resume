@@ -9,7 +9,7 @@
 - **JS Specific:** ES6, React/React native, Redux, NPM, Electron, Webpack, Babel, Jest, Karma, Mocha, Express, Koa, Apollo, Gulp, Grunt, Backbone, jQuery
 - **Data:** REST, GraphQL, Mongodb, Redis, SQL, JSON, XML
 - **Infrastructure:** CI/CD, Jenkins, Bamboo, AWS, Cordova
-- **Process:** Git, Gitflow, Scrum, Code review, Mentorship
+- **Process:** Git, Gitflow, Scrum, Code review
 
 ### Experience
 
@@ -17,7 +17,7 @@
 - Sr Developer / Team Lead (*October 2015 - Current*)
 	- Led group of developers in creating enterprise level applications using Node.js, Koa, React/React Native, Redux & many tools from the react ecosystem
 	- Architect cross-platform, full stack solutions for complex enterprise features
-	- Routine code review, mentorship of new developers
+	- Routinely collaborate & code review with team
 	- Built robust, modular single page applications while integrating with client services and APIs
 	- Developed a full-stack javascript mobile web application utilizing Cordova
 - Web developer (*March 2014 - October 2015*)
@@ -42,12 +42,10 @@
 	- Utilized photoshop to design sites using responsive design patterns
 
 ### Education
-- Full Sail University
+- Full Sail University (*2011 - 2013*)
 	- BS, Web Design & Development
-	- 2011-2013
 	- Salutatorian
 
-- University of Central Florida
+- University of Central Florida (*2006-2011*)
 	- BS, Communication & Media Studies
-	- 2006-2011
 
