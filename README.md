@@ -1,5 +1,5 @@
 ## Brad Bohen
-[Email](bbohen@gmail.com) | 727-366-4397
+<bbohen@gmail.com> | 727-366-4397
 
 ### Summary
 - Seeking a full stack or front end development position with a focus on javascript
