@@ -16,12 +16,12 @@
 #### Mad Mobile
 - Sr Developer / Team Lead (*October 2015 - Current*)
 	- Led group of developers in creating enterprise level applications using Node.js, Koa, React/React Native, Redux & many tools from the react ecosystem
-	- Architect cross-platform, full stack solutions for complex enterprise features
+	- Architect cross-platform, full stack solutions for enterprise clients such as Sysco Foods
 	- Routinely collaborate & code review with team
 	- Built robust, modular single page applications while integrating with client services and APIs
 	- Developed a full-stack javascript mobile web application utilizing Cordova
 - Web developer (*March 2014 - October 2015*)
-	- Developed single page applications using client-side libraries such as Backbone.js, Require.js, Undescore.js, and jQuery
+	- Created and supported single page applications using client-side libraries such as Backbone.js, Require.js, Undescore.js, and jQuery for clients such as Zales, Aeropostale, MLB and more
 	- Developed APIs tailored for mobile consumption for multiple high profile mobile E-Commerce sites using Node.js and ASP.NET MVC
 	- Worked with small teams in an Agile environment
 	- Worked alongside designers to create the best user experience for mobile and tablet interfaces
