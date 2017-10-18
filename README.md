@@ -1,20 +1,23 @@
 ## Brad Bohen
 <bbohen@gmail.com> | 727-366-4397
 
-### Summary
-- Seeking a full stack or front end development position with a focus on javascript
+I love writing code, building products, growing teams and working with others who enjoy the same. 
 
 ### Technical Skills
-- **Languages:** Javascript/Node.js, HTML/CSS, PHP, Python, ActionScript, Java
-- **JS Specific:** ES6, React/React native, Redux, NPM, Electron, Webpack, Babel, Jest, Karma, Mocha, Express, Koa, Apollo, Gulp, Grunt, Backbone, jQuery
-- **Data:** REST, GraphQL, Mongodb, Redis, SQL, JSON, XML
+- **Languages:** Javascript/Node.js, Python, HTML/CSS/SCSS/LESS, PHP, ActionScript, Java
+- **JS Specific:** React/React Native, Redux, Ember, NPM, Apollo, Electron, Webpack, Babel, Jest, Karma, Mocha, Express, Koa, Gulp, Grunt, Backbone, jQuery
+- **Python Specific:** Django, Django REST API, Flask, Numpy, RQ, Graphene, SQLAlchemy
+- **Data:** REST, GraphQL, Postgres, Mongodb, Redis, SQL, JSON, XML
 - **Infrastructure:** CI/CD, Jenkins, Bamboo, AWS, Cordova
-- **Process:** Git, Gitflow, Scrum, Code review
+- **Process:** Git, Gitflow, Scrum, Code review, TDD
 
 ### Experience
 
+#### Full Stack Labs
+- Senior Fullstack Developer (*August 2017 -*)
+
 #### Mad Mobile
-- Sr Developer / Team Lead (*October 2015 - Current*)
+- Senior Developer / Team Lead (*October 2015 - August 2017*)
 	- Led group of developers in creating enterprise level applications using Node.js, Koa, React/React Native, Redux & many tools from the react ecosystem
 	- Architect cross-platform, full stack solutions for enterprise clients such as Sysco Foods
 	- Routinely collaborate & code review with team
