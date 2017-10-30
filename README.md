@@ -1,11 +1,11 @@
 ## Brad Bohen
 <bbohen@gmail.com> | 727-366-4397
 
-I love writing code, building products, growing teams and working with others who enjoy the same. 
+I love writing quality code, building products and working with others who enjoy the same. I am currently focusing on React & GraphQL for web & mobile app development but am always looking to learn new technologies and try new things.
 
 ### Technical Skills
 - **Languages:** Javascript/Node.js, Python, HTML/CSS/SCSS/LESS, PHP, ActionScript, Java
-- **JS Specific:** React/React Native, Redux, Ember, NPM, Apollo, Electron, Webpack, Babel, Jest, Karma, Mocha, Express, Koa, Gulp, Grunt, Backbone, jQuery
+- **JS Specific:** React/React Native, Redux, NPM, Apollo, Electron, Webpack, Babel, Jest, Karma, Mocha, Express, Koa, Gulp, Grunt, Ember, Backbone, jQuery, Many More...
 - **Python Specific:** Django, Django REST API, Flask, Numpy, RQ, Graphene, SQLAlchemy
 - **Data:** REST, GraphQL, Postgres, Mongodb, Redis, SQL, JSON, XML
 - **Infrastructure:** CI/CD, Jenkins, Bamboo, AWS, Cordova
@@ -15,6 +15,11 @@ I love writing code, building products, growing teams and working with others wh
 
 #### Full Stack Labs
 - Senior Fullstack Developer (*August 2017 -*)
+  - Work with small teams of developers on various enterprise level applications using Django, Flask, Graphene, React & Ember
+  - Architect and implement authentication & authorization into enterprise level applications utilizing the OAuth2 & OpenID Connect specifications & the SSO capabilities of Okta
+  - Collaborate & code review with teammates
+  - Regularally communicate with clients and work with teams throughout various organizations to complete tasks
+
 
 #### Mad Mobile
 - Senior Developer / Team Lead (*October 2015 - August 2017*)
