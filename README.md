@@ -5,7 +5,7 @@ bbohen@gmail.com | 727-366-4397
 ### Highlights
 
 * 10 years of experience with developing modern applications and the data layers to power them
-* Helped lead and grow development team for Perch Security from series A funding to successful sale of the company
+* Helped lead and grow development team for Perch Security from Series A funding to successful sale of the company
 * Architected functionality and solutions for highly active data pipeline responsible for over 30 million records a minute
 * Led development teams responsible for multiple enterprise applications (Sysco Foods and Siemens)
 
@@ -27,8 +27,8 @@ bbohen@gmail.com | 727-366-4397
   * Development of REST API with Django/DRF, Postgres, Redis
   * Performance optimization of the API and it's utilization of associated systems such as Elasticsearch and Postgres
   * Development of SPA with React, Material UI & Apollo tooling
-  * Development of Node.js microservice used for third party integrations
-  * Development of Go microservice used for authentication and enrichment of Kafka/Logstash data ingestion pipeline
+  * Development of Node.js service used for third party integrations
+  * Development of Go service used for authentication and enrichment of Kafka/Logstash data ingestion pipeline
   * Architect and develop system for daily metrics of Kafka/Logstash data ingestion pipeline
   * Architect and develop system for tracking the numerous device types of incoming logs within Kafka/Logstash data ingestion pipeline
   * Use Logstash to create log parsers for the various formats of third party vendors
